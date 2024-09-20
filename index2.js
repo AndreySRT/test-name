@@ -1,7 +1,7 @@
-let = admin
-let = name
+let = admin;
+let = name;
 
-name =  'Иван'
-admin = name
+name =  'Иван';
+admin = name;
 
-alert(admin)
+alert(admin);
